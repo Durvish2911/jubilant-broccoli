@@ -1,0 +1,30 @@
+.header{
+font-size: 30px;
+ width: 50%;
+ text-align: center;
+}
+.NOTE{
+    font-size: 20px;
+}
+.header:hover{
+    background-color: navy;
+}
+.NOTE:hover{
+    background-color: olive;
+}
+.copy_right_footer{
+    line-height: 3;
+    font-size: 25px;
+    background-color: grey;
+    color: black;
+    bottom: 0%;
+     position: fixed;
+     width: 100%;
+     text-align: center;
+}
+canvas{
+    background-color: navy;
+    border-radius: 30px; 
+    border-style: solid;
+    border-width: 2px;
+}
